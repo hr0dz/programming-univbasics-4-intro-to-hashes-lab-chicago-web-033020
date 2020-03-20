@@ -26,6 +26,7 @@ def my_hash_creator(key, value)
     myhashcreator = {
       :blee => "blah"
     }
+    myhashcreator
   # return a hash that includes the key and value parameters passed into this method
 end
 
